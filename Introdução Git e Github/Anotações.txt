@@ -1,0 +1,68 @@
+# Criando Repositório
+
+Máquina Local
+
+Criar local na máquina o local qual será criado e armazenado o repostitório
+
+Remoto
+
+Clicando em code 
+
+Criar nome para repositório 
+
+Criar Observações do Repositório (Opcional)
+
+Selicionar README.me
+
+Criar Repositório
+
+Na máquina Local
+
+Clicar botão direito Git Bash Here
+
+Como Clonar Repositório Remoto para Local através de:
+
+Copiar a URL do repositório remoto
+
+Usar comandos
+
+git clone e "colar a URL remoto"
+
+será criado a pasta git na sua máquina
+
+no git bash
+
+comando
+
+ls (para listar)
+cd "nome da pasta" mais a "/" no final (entrar)
+ls
+cd "nome da pasta do repositório remoto" mais a "/" no final (entrar)
+ls
+
+Após alterações na máquina local:
+
+comandos:
+
+git add .
+
+verificar status através de:
+
+git status
+
+como foi realizado alterções deve ser criado um commit para mostrar o que foi realizado para entender as mudanças
+
+comandos:
+
+git commit -m "descrever as alterações"
+
+para que aas mudanças sejam realizadas no repositório remoto:
+
+comandos:
+
+git push origin main
+
+
+
+
+
