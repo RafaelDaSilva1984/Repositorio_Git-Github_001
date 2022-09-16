@@ -63,6 +63,10 @@ comandos:
 git push origin main
 
 
+Quando for realizado alterações no Github, para puxar para local usar:
 
+comandos:
+
+git pull origin main
 
 
